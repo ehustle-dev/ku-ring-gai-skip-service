@@ -73,7 +73,7 @@ if (form) {
 
       form.reset();
       if (status) {
-        status.textContent = "Thanks — we’ll call you back shortly.";
+        status.textContent = "Thanks - we’ll call you back shortly.";
         status.className = "form-status ok";
       }
     } catch {
